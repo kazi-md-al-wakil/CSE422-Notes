@@ -1,0 +1,14 @@
+N N N Y Y N N
+N Y N N Y Y N
+Y Y N Y N N Y
+N N N N N Y N
+Y Y N N N N N
+N N N Y N N N		
+
+
+0 0 0 1 1 0 0 
+0 1 0 0 1 1 0
+1 1 0 1 0 0 1
+0 0 0 0 0 1 0
+1 1 0 0 0 0 0
+0 0 0 1 0 0 0
